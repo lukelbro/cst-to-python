@@ -32,3 +32,6 @@ tuple: A tuple containing two elements:
     - arrays (list of numpy.ndarray): A list of NumPy arrays containing data from each data block in the file.
 ```
 
+Instillation: 
+Seemed unnecessary. Copy and paste.
+
