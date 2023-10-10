@@ -23,7 +23,7 @@ Example file format for input file:
 
 Usage:
 ```
-cst_to_python(filename)
+parameters, arrays = cst_to_python(filename)
 ```
 ```
 Returns:
